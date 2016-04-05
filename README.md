@@ -1,2 +1,3 @@
 # hello-world
-Guardarei minhas tralhas aqui
+Sou iniciante em programação;
+Guardarei minhas tralhas aqui;
